@@ -1,0 +1,1768 @@
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2169
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp/views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2169
+"GET /prefix/ HTTP/1.1" 200 16
+"GET /prefix/about/ HTTP/1.1" 200 27
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myproject/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2169
+Index page accessed
+"GET /prefix/ HTTP/1.1" 200 16
+Error in about page: division by zero
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp/views.py", line 15, in about
+    result = 1 / 0
+             ~~^~~
+ZeroDivisionError: division by zero
+"GET /prefix/about/ HTTP/1.1" 200 27
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myproject/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2169
+Index page accessed
+"GET /prefix/ HTTP/1.1" 200 16
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2274
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2325
+Not Found: /les3/
+"GET /les3/ HTTP/1.1" 404 2548
+"GET /les3/hello/ HTTP/1.1" 200 26
+"GET /les3/hello2/ HTTP/1.1" 200 23
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /les3/post/2022/python
+"GET /les3/post/2022/python HTTP/1.1" 404 3232
+Not Found: /
+"GET / HTTP/1.1" 404 2274
+Not Found: /les3/2022
+"GET /les3/2022 HTTP/1.1" 404 3196
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2274
+"GET /les3/hello/ HTTP/1.1" 200 26
+"GET /les3/ HTTP/1.1" 200 182
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3/if/ HTTP/1.1" 200 359
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3/ HTTP/1.1" 200 186
+Internal Server Error: /les3/for/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 66, in view_for
+    return render(request, 'myapp3/templ_for.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/templ_for.html
+"GET /les3/for/ HTTP/1.1" 500 77422
+Internal Server Error: /les3/for/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 66, in view_for
+    return render(request, 'myapp3/templ_for.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/templ_for.html
+"GET /les3/for/ HTTP/1.1" 500 77559
+Internal Server Error: /les3/for/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 66, in view_for
+    return render(request, 'myapp3/templ_for.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/templ_for.html
+"GET /les3/for/ HTTP/1.1" 500 77559
+"GET /les3/for HTTP/1.1" 301 0
+Internal Server Error: /les3/for/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 66, in view_for
+    return render(request, 'myapp3/templ_for.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/templ_for.html
+"GET /les3/for/ HTTP/1.1" 500 77422
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2274
+Internal Server Error: /les3/for/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 66, in view_for
+    return render(request, 'myapp3/templ_for.html', context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: myapp3/templ_for.html
+"GET /les3/for/ HTTP/1.1" 500 77422
+Watching for file changes with StatReloader
+Not Found: /
+"GET / HTTP/1.1" 404 2274
+"GET /les3/hello/ HTTP/1.1" 200 26
+"GET /les3/for/ HTTP/1.1" 200 1008
+Not Found: /
+"GET / HTTP/1.1" 404 2274
+"GET /les3/for/ HTTP/1.1" 200 1008
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3/for/ HTTP/1.1" 200 1008
+"GET /les3/index/ HTTP/1.1" 200 252
+"GET /les3/about/ HTTP/1.1" 200 216
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myproject/settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /les3/index/ HTTP/1.1" 200 252
+Not Found: /
+"GET / HTTP/1.1" 404 2274
+"GET /les3/index/ HTTP/1.1" 200 252
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myproject/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 252
+"GET /les3/author/5 HTTP/1.1" 301 0
+Internal Server Error: /les3/author/5/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 83, in author_posts
+    return render(request, 'myapp3/author_posts.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les3/author/5/ HTTP/1.1" 500 124209
+Not Found: /les3/author/
+"GET /les3/author/ HTTP/1.1" 404 4557
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 252
+Not Found: /les3/author/
+"GET /les3/author/ HTTP/1.1" 404 4557
+"GET /les3/author/3 HTTP/1.1" 301 0
+Internal Server Error: /les3/author/3/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 83, in author_posts
+    return render(request, 'myapp3/author_posts.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les3/author/3/ HTTP/1.1" 500 124209
+Internal Server Error: /les3/author/5/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 83, in author_posts
+    return render(request, 'myapp3/author_posts.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les3/author/5/ HTTP/1.1" 500 124209
+Internal Server Error: /les3/author/5/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 83, in author_posts
+    return render(request, 'myapp3/author_posts.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les3/author/5/ HTTP/1.1" 500 124346
+Internal Server Error: /les3/author/5/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 83, in author_posts
+    return render(request, 'myapp3/author_posts.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les3/author/5/ HTTP/1.1" 500 124346
+Not Found: /les3/author/
+"GET /les3/author/ HTTP/1.1" 404 4557
+Internal Server Error: /les3/author/5/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 83, in author_posts
+    return render(request, 'myapp3/author_posts.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les3/author/5/ HTTP/1.1" 500 124209
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 119776
+Not Found: /les3/author/
+"GET /les3/author/ HTTP/1.1" 404 4557
+Not Found: /les3/author/
+"GET /les3/author/ HTTP/1.1" 404 4557
+Not Found: /les3/author_post/
+"GET /les3/author_post/ HTTP/1.1" 404 4572
+Not Found: /les3/author_post/5/
+"GET /les3/author_post/5/ HTTP/1.1" 404 4578
+Internal Server Error: /les3/author/5/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 83, in author_posts
+    return render(request, 'myapp3/author_posts.html', {'author': author, 'posts': posts})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les3/author/5/ HTTP/1.1" 500 124209
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myproject/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 120411
+Not Found: /les4/
+"GET /les4/ HTTP/1.1" 404 2586
+Not Found: /les4/user_form/
+"GET /les4/user_form/ HTTP/1.1" 404 2616
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py", line 19, in user_form
+    return render(request, 'myapp4/user_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les4/user/add/ HTTP/1.1" 500 121113
+Not Found: /les4/user/
+"GET /les4/user/ HTTP/1.1" 404 2601
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py", line 19, in user_form
+    return render(request, 'myapp4/user_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les4/user/add/ HTTP/1.1" 500 121113
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py", line 19, in user_form
+    return render(request, 'myapp4/user_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les4/user/add/ HTTP/1.1" 500 121250
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 120411
+Not Found: /les4/
+"GET /les4/ HTTP/1.1" 404 2586
+Not Found: /les4/user/
+"GET /les4/user/ HTTP/1.1" 404 2601
+Internal Server Error: /les4/user/add/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py", line 19, in user_form
+    return render(request, 'myapp4/user_form.html', {'form': form})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les4/user/add/ HTTP/1.1" 500 121113
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 120411
+Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py", line 29, in many_fields_form
+    return render(request, 'myapp4/many_fields_form.html',
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les4/forms/ HTTP/1.1" 500 122106
+"GET /les4/forms HTTP/1.1" 301 0
+Internal Server Error: /les4/forms/
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py", line 29, in many_fields_form
+    return render(request, 'myapp4/many_fields_form.html',
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: base.html
+"GET /les4/forms/ HTTP/1.1" 500 122106
+Not Found: /les4/form/
+"GET /les4/form/ HTTP/1.1" 404 2784
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 120411
+Not Found: /les4/
+"GET /les4/ HTTP/1.1" 404 2769
+"GET /les4/forms/ HTTP/1.1" 200 1453
+"POST /les4/forms/ HTTP/1.1" 200 1602
+"POST /les4/forms/ HTTP/1.1" 200 1594
+"POST /les4/forms/ HTTP/1.1" 200 1539
+"POST /les4/forms/ HTTP/1.1" 200 1547
+"POST /les4/forms/ HTTP/1.1" 200 1547
+"POST /les4/forms/ HTTP/1.1" 200 1547
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 121012
+"GET /les4/forms/ HTTP/1.1" 200 2074
+"POST /les4/forms/ HTTP/1.1" 200 2197
+"POST /les4/forms/ HTTP/1.1" 200 2197
+"POST /les4/forms/ HTTP/1.1" 200 2197
+"POST /les4/forms/ HTTP/1.1" 200 2197
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /les4/forms/ HTTP/1.1" 200 2197
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/models.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/models.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 121012
+"GET /les4/user/ HTTP/1.1" 200 889
+"POST /les4/user/ HTTP/1.1" 200 1040
+"POST /les4/user/ HTTP/1.1" 200 1045
+"POST /les4/user/ HTTP/1.1" 200 1045
+"POST /les4/user/ HTTP/1.1" 200 1045
+"POST /les4/user/ HTTP/1.1" 200 1045
+"POST /les4/user/ HTTP/1.1" 200 1039
+"POST /les4/user/ HTTP/1.1" 200 1039
+"POST /les4/user/ HTTP/1.1" 200 1039
+"POST /les4/user/ HTTP/1.1" 200 1039
+"POST /les4/user/ HTTP/1.1" 200 1044
+"POST /les4/user/ HTTP/1.1" 200 1044
+"POST /les4/user/ HTTP/1.1" 200 1040
+"POST /les4/user/ HTTP/1.1" 200 1040
+"POST /les4/user/ HTTP/1.1" 200 1036
+"POST /les4/user/ HTTP/1.1" 200 1036
+"POST /les4/user/ HTTP/1.1" 200 1036
+"POST /les4/user/ HTTP/1.1" 200 1036
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/forms.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myproject/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 121101
+Not Found: /les4/upload/
+"GET /les4/upload/ HTTP/1.1" 404 2964
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 121101
+Not Found: /les4/upload/
+"GET /les4/upload/ HTTP/1.1" 404 2964
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 121101
+"GET /les4/forms/ HTTP/1.1" 200 2074
+Not Found: /les4/
+"GET /les4/ HTTP/1.1" 404 2943
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp4/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 121101
+"GET /les4/upload/ HTTP/1.1" 200 567
+"POST /les4/upload/ HTTP/1.1" 200 567
+"POST /les4/upload/ HTTP/1.1" 200 567
+"POST /les4/upload/ HTTP/1.1" 200 566
+"POST /les4/upload/ HTTP/1.1" 200 566
+Watching for file changes with StatReloader
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 132, in render
+    compiled_parent = self.get_parent(context)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 129, in get_parent
+    return self.find_template(parent, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader_tags.py", line 107, in find_template
+    template, origin = context.template.engine.find_template(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/engine.py", line 161, in find_template
+    raise TemplateDoesNotExist(name, tried=tried)
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/myproject/myapp3/views.py", line 73, in index
+    return render(request, 'myapp3/index.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/shortcuts.py", line 24, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 63, in render
+    reraise(exc, self.backend)
+  File "/Users/alexanderzagaynov/PycharmProjects/DjangoProject03/venv/lib/python3.12/site-packages/django/template/backends/django.py", line 84, in reraise
+    raise new from exc
+django.template.exceptions.TemplateDoesNotExist: myapp3/base.html
+"GET / HTTP/1.1" 500 121101
+Not Found: /les3/upload/
+"GET /les3/upload/ HTTP/1.1" 404 4662
+Not Found: /les3/upload/
+"GET /les3/upload/ HTTP/1.1" 404 4662
+"GET /les4/upload/ HTTP/1.1" 200 566
+"POST /les4/upload/ HTTP/1.1" 200 566
